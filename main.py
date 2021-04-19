@@ -70,7 +70,7 @@ def word():
     turtle.up()
     turtle.down()
     turtle.pencolor('white')
-    turtle.write('FREE', align = 'center', font = ('Arial Black', 35, "normal"))
+    turtle.write('FREE', align='center', font=('Arial Black', 35, "normal"))
     turtle.up()
 
 
